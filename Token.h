@@ -1,5 +1,5 @@
-#ifndef LAB2_TOKEN_H
-#define LAB2_TOKEN_H
+#ifndef _TOKEN_H
+#define _TOKEN_H
 enum Token{
     LPAREN,
     RPAREN,
@@ -10,4 +10,4 @@ enum Token{
     NOT,
     TERMINAL
 };
-#endif //LAB2_TOKEN_H
+#endif //_TOKEN_H

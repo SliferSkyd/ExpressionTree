@@ -2,8 +2,8 @@
 #include "Token.h"
 #include "parseException.h"
 
-#ifndef LAB2_LEXICALANALYZER_H
-#define LAB2_LEXICALANALYZER_H
+#ifndef _LEXICALANALYZER_H
+#define _LEXICALANALYZER_H
 
 class LexicalAnalyzer {
 public:
@@ -80,4 +80,4 @@ public:
     }
 };
 
-#endif //LAB2_LEXICALANALYZER_H
+#endif //_LEXICALANALYZER_H

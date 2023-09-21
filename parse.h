@@ -1,5 +1,5 @@
-#ifndef LAB2_PARSE_H
-#define LAB2_PARSE_H
+#ifndef _PARSE_H
+#define _PARSE_H
 
 #include<iostream>
 #include "lexicalAnalyzer.h"
@@ -109,4 +109,4 @@ public:
     }
 };
 
-#endif //LAB2_PARSE_H
+#endif //_PARSE_H

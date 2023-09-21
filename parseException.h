@@ -1,5 +1,5 @@
-#ifndef LAB2_PARSEEXCEPTION_H
-#define LAB2_PARSEEXCEPTION_H
+#ifndef _PARSEEXCEPTION_H
+#define _PARSEEXCEPTION_H
 #include <iostream>
 #include <stdexcept>
 
@@ -21,4 +21,4 @@ private:
     char illegalCharacter;
     int errorPosition;
 };
-#endif //LAB2_PARSEEXCEPTION_H
+#endif //_PARSEEXCEPTION_H

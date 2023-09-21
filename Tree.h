@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
-#ifndef LAB2_TREE_H
-#define LAB2_TREE_H
+#ifndef _TREE_H
+#define _TREE_H
 int count = 0;
 class Tree{
 public:
@@ -20,4 +20,4 @@ public:
     }
 };
 
-#endif //LAB2_TREE_H
+#endif //_TREE_H
