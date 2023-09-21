@@ -1,0 +1,3 @@
+C:/Users/ADMIN23/Documents/Year 3/Translations Methods/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir
+C:/Users/ADMIN23/Documents/Year 3/Translations Methods/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN23/Documents/Year 3/Translations Methods/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
